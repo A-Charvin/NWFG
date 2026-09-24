@@ -39,8 +39,6 @@ Runs inside the Python environment that ships with ArcGIS Pro. Uses only:
 - arcpy, optional, for coordinate projection (pure Python fallback included)
 - Python standard library
 
-No pip installs.
-
 ## Usage
 
 1. Copy the script anywhere.
