@@ -116,12 +116,6 @@ matched FlightYawDegree directly.
 - The bundled .prj WKT is WGS 84 UTM zone 18N with an EGM96 vertical datum.
   Replace `WKT_PRJ` when flying outside that zone.
 
-## Companion tool
-
-AeroMosaic Ground Mosaic Builder warps the same telemetry placements into a
-single feathered GeoTIFF mosaic. Same math and same constants, so the mosaic
-and the sidecars agree pixel for pixel.
-
 ## Provenance
 
 XMP telemetry handling concepts from cheny124800/Drone-Image-Stitching. 
